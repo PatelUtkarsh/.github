@@ -1,6 +1,25 @@
+<div align="center">
+
+<img width="1500" alt="XWP. Using WordPress to Build Innovative Enterprise Solutions" src="https://raw.githubusercontent.com/xwp/.github/main/profile/assets/xwp-banner.png" />
+
+</div>
+
 ## About XWP
 
-We are building a better web at enterprise scale. XWP engineers the technologies that make the web better for everyone. We make publishing easier with modern editorial tools, improve ownership through cleverly personalized workflows, and boost conversions with lightning-fast user experiences.
+We're building a better web at enterprise scale. XWP engineers the technologies that make the web better for everyone. We make publishing easier with modern editorial tools, improve ownership through cleverly personalized workflows, and boost conversions with lightning-fast user experiences.
+
+## What we build
+
+- **Enterprise WordPress.** Long-term engineering partnerships with the world's largest publishers and brands.
+- **Enterprise migrations.** Moving large, business-critical sites onto WordPress without losing content, SEO, or sleep.
+- **Custom tooling.** Bespoke editorial and workflow tooling, built for the specific teams that need it.
+- **Security & auditability.** Including [Stream](https://github.com/xwp/stream), our activity-log plugin used to track every change across a WordPress site.
+- **Performance & Core Web Vitals.** Speed work grounded in measurement, not folklore.
+- **Open source contributions.** We ship code back to the projects we depend on.
+
+## Some of our clients
+
+We've partnered with publishers and enterprises including Daily Kos, Newsweek, Vox Media, AreMedia, Rolling Stone, and News Corp Australia, among many others.
 
 ## Careers
 
@@ -8,7 +27,4 @@ XWP is always looking for exceptional talent. Learn more about our [current open
 
 ## Contact
 
-We can be reached through our [website](https://xwp.co/contact/) and found on [Facebook](https://www.facebook.com/xwp.co/), [GitHub](https://github.com/xwp), [LinkedIn](https://www.linkedin.com/company/xwp/), and [Twitter](https://twitter.com/xwp).
-
-<img width="1500" height="500" alt="1500x500" src="https://github.com/user-attachments/assets/e1821ebf-7fde-4f8d-9cb1-b119649e0fa6" />
-
+We can be reached through our [website](https://xwp.co/contact/) and found on [LinkedIn](https://www.linkedin.com/company/xwp/), [Facebook](https://www.facebook.com/xwp.co/), and [Twitter](https://twitter.com/xwp).
